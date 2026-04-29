@@ -17,6 +17,7 @@ Bot Discordowy pomagający edukować o zmianach klimatu poprzez:
 | `$quiz`     | Quiz (odpowiedz tak/nie) |
 | `$wyzwanie` | Wyzwanie dnia            |
 | `$mem`      | Losowy mem               |
+| `$help`     | pokazuje wszystkie dostępne komendy (wip)|
 
 ---
 
@@ -50,6 +51,7 @@ python bot.py
 
 ## 🧠 Pomysły na przyszłość
 
+* Zrobić poprawną komende $help
 * Przyciski zamiast pisania 🔘
 * AI chatbot 🤖
 
