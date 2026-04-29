@@ -22,16 +22,16 @@ Bot Discordowy pomagający edukować o zmianach klimatu poprzez:
 
 ## 🚀 Instalacja
 
-1. Sklonuj repo:
+1. Sklonuj repozytorium:
 
 ```
-git clone https://github.com/TWOJ_NICK/discord-climate-bot.git
+git clone https://github.com/Bubus-64/discord-climate-bot.git
 ```
 
 2. Zainstaluj wymagania:
 
 ```
-pip install -r requirements.txt
+wszystkie biblioteki w kodzie
 ```
 
 3. Wklej swój token:
@@ -50,8 +50,6 @@ python bot.py
 
 ## 🧠 Pomysły na przyszłość
 
-* System punktów 🏆
-* Ranking użytkowników 📊
 * Przyciski zamiast pisania 🔘
 * AI chatbot 🤖
 
