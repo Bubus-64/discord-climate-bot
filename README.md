@@ -1,11 +1,11 @@
-# 🌍 Discord Climate Bot
+# Discord Climate Bot
 
 Bot Discordowy pomagający edukować o zmianach klimatu poprzez:
 
-* 🌱 Tipy ekologiczne
-* 🧠 Quizy (tak/nie)
-* 🔥 Wyzwania dnia
-* 😂 Losowe memy
+* Tipy ekologiczne
+* Quizy (tak/nie)
+* Wyzwania dnia
+* Losowe memy
 
 ---
 
@@ -21,7 +21,7 @@ Bot Discordowy pomagający edukować o zmianach klimatu poprzez:
 
 ---
 
-## 🚀 Instalacja
+## Instalacja
 
 1. Sklonuj repozytorium:
 
@@ -49,7 +49,7 @@ python bot.py
 
 ---
 
-## 🧠 Pomysły na przyszłość
+## Pomysły na przyszłość
 
 * Zrobić poprawną komende $help
 * Przyciski zamiast pisania 🔘
@@ -57,6 +57,6 @@ python bot.py
 
 ---
 
-## 📜 Licencja
+## Licencja
 
 MIT
