@@ -51,9 +51,10 @@ python bot.py
 
 ## Pomysły na przyszłość
 
-* Zrobić poprawną komende $help
-* Przyciski zamiast pisania 🔘
-* AI chatbot 🤖
+* Poprawna komenda $help
+* Dzienny limit komendy $wyzwanie
+* Przyciski zamiast pisania 
+* AI chatbot 
 
 ---
 
