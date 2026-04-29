@@ -37,7 +37,7 @@ pip install -r requirements.txt
 3. Wklej swój token:
 
 ```python
-bot.run("TWÓJ_TOKEN")
+bot.run("twój token")
 ```
 
 4. Uruchom:
